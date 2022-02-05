@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @louis123456
+- 👋 Hi, I’m @louis123456 and I'm a hobbyist programmer from South Africa. 
+
 - 👀 I’m interested in 
   - Graphics
   - C++
@@ -8,6 +9,7 @@
   - Gamedev
   - Realtime systems
   - Linux/Windows
+  - Cybersecurity
 - 🌱 I’m currently learning 
   - Some webdev stuff
   - DX11
@@ -19,7 +21,7 @@
   - OS
   - Anything c++
 - 📫 How to reach me
-  - I'm currently looking to study Computer Science in 2023 if you am or know of someone who can help send me an email: louisvdw99 (at) gmail (dot) com
+  - I'm currently looking to study Computer Science in 2023 if you am or know of someone who can help with sponsorships or bursaries send me an email: louisvdw99 (at) gmail (dot) com
 
 <!---
 louis123456/louis123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

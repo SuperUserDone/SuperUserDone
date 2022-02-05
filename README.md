@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louis123456 and I'm a hobbyist programmer from South Africa. 
 
-- 👀 I’m interested in 
+- 👀 I’m currently doing stuff with 
   - Graphics
   - C++
   - OpenGL

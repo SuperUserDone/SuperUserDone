@@ -21,8 +21,7 @@
   - OS
   - Anything c++
 - 📫 How to reach me
-  - I'm currently looking to study Computer Science in 2023 if you am or know of someone who can help with sponsorships or bursaries send me an email: louisvdw99 (at) gmail (dot) com
-
+  - I'm currently looking to study Computer Science in 2023 if you am or know of someone who can help with sponsorships or bursaries please fill in this form: https://forms.gle/3rKYjPShE8MCfLCW8 
 <!---
 louis123456/louis123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
